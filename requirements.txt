@@ -1,0 +1,10 @@
+Django>=3.0,<4.0
+psycopg2-binary>=2.8
+redis
+
+djangorestframework
+markdown
+choicesenum
+black
+pytest-django
+factory_boy

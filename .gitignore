@@ -1,0 +1,7 @@
+# Compiled Python bytecode
+*.py[cod]
+__pycache__
+.pytest_cache
+
+# JetBrains IDE
+.idea/
